@@ -2,6 +2,15 @@
 	"maxerr": 1000,
 
 	"predef": [
+		"exports",
+		"describe",
+		"expect",
+		"it",
+		"beforeEach",
+		"afterEach",
+		"jasmine",
+		"test",
+		"spyOn"
 	],
 
 	"jquery" : true,

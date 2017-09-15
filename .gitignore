@@ -2,3 +2,5 @@
 *.iml
 *.tmproj
 *.sublime-workspace
+.project
+node_modules
